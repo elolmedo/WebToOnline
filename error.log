@@ -1,0 +1,232 @@
+[Fri, 15 Dec 2017 08:01:43 +0000] Error 20: Error en la selección del dominio
+[Fri, 15 Dec 2017 10:06:10 +0000] Error 8: Undefined variable: dominio_seleccionado
+[Fri, 15 Dec 2017 10:06:10 +0000] Error 30: Error en la selección del dominio
+[Fri, 15 Dec 2017 10:24:49 +0000] Error 8: Undefined variable: dominio_seleccionado
+[Fri, 15 Dec 2017 10:24:49 +0000] Error 30: Error en la selección del dominio
+[Fri, 15 Dec 2017 10:27:30 +0000] Error 8: Undefined variable: dominio_seleccionado
+[Fri, 15 Dec 2017 10:27:30 +0000] Error 30: Error en la selección del dominio
+[Fri, 15 Dec 2017 10:28:34 +0000] Error 8: Undefined variable: dominio_seleccionado
+[Fri, 15 Dec 2017 10:28:34 +0000] Error 30: Error en la selección del dominio
+[Fri, 15 Dec 2017 12:20:20 +0000] Error 2: ssh2_auth_password(): Authentication failed for root using password
+[Fri, 15 Dec 2017 12:20:20 +0000] Error 2: ssh2_scp_send(): Connection not authenticated
+[Fri, 15 Dec 2017 12:20:20 +0000] Error 2: ssh2_scp_send(): Connection not authenticated
+[Fri, 15 Dec 2017 12:22:22 +0000] Error 2: ssh2_scp_send(): Failure creating remote file: (null)
+[Fri, 15 Dec 2017 12:22:22 +0000] Error 2: ssh2_scp_send(): Failure creating remote file: (null)
+[Fri, 15 Dec 2017 12:26:17 +0000] Error 2: ssh2_scp_send(): Failure creating remote file: (null)
+[Fri, 15 Dec 2017 12:26:17 +0000] Error 2: ssh2_scp_send(): Failure creating remote file: (null)
+[Fri, 15 Dec 2017 12:27:02 +0000] Error 2: ssh2_scp_send(): Failure creating remote file: (null)
+[Fri, 15 Dec 2017 12:27:02 +0000] Error 2: ssh2_scp_send(): Failure creating remote file: (null)
+[Fri, 15 Dec 2017 12:45:01 +0000] Error 8: Use of undefined constant r - assumed 'r'
+[Fri, 15 Dec 2017 12:45:01 +0000] Error 8: Use of undefined constant r - assumed 'r'
+[Fri, 15 Dec 2017 12:45:01 +0000] Error 2: ssh2_scp_send() expects parameter 2 to be string, resource given
+[Fri, 15 Dec 2017 12:45:01 +0000] Error 2: ssh2_scp_send() expects parameter 2 to be string, resource given
+[Fri, 15 Dec 2017 12:47:34 +0000] Error 8: Undefined variable: remotefile
+[Fri, 15 Dec 2017 12:47:34 +0000] Error 2: ssh2_scp_send(): Failure creating remote file: (null)
+[Fri, 15 Dec 2017 12:47:34 +0000] Error 8: Undefined variable: remotefile
+[Fri, 15 Dec 2017 12:47:34 +0000] Error 2: ssh2_scp_send(): Failure creating remote file: (null)
+[Fri, 15 Dec 2017 12:52:08 +0000] Error 8: Use of undefined constant PACHCOM - assumed 'PACHCOM'
+[Fri, 15 Dec 2017 12:52:08 +0000] Error 2: ssh2_scp_send(): Failure creating remote file: (null)
+[Fri, 15 Dec 2017 12:57:36 +0000] Error 2: ssh2_scp_send(): Failure creating remote file: (null)
+[Fri, 15 Dec 2017 12:57:36 +0000] Error 2: ssh2_scp_send(): Failure creating remote file: (null)
+[Fri, 15 Dec 2017 13:35:24 +0000] Error 2: ssh2_auth_password(): Authentication failed for root using password
+[Fri, 15 Dec 2017 13:35:24 +0000] Error 2: ssh2_scp_send(): Connection not authenticated
+[Fri, 15 Dec 2017 13:35:24 +0000] Error 2: ssh2_scp_send(): Connection not authenticated
+[Fri, 15 Dec 2017 13:35:24 +0000] Error 2: ssh2_exec(): Connection not authenticated
+[Fri, 15 Dec 2017 13:39:25 +0000] Error 2: ssh2_auth_password(): Authentication failed for root using password
+[Fri, 15 Dec 2017 13:39:25 +0000] Error 2: ssh2_scp_send(): Connection not authenticated
+[Fri, 15 Dec 2017 13:39:25 +0000] Error 2: ssh2_scp_send(): Connection not authenticated
+[Fri, 15 Dec 2017 13:39:25 +0000] Error 2: ssh2_exec(): Connection not authenticated
+[Mon, 18 Dec 2017 11:03:01 +0000] Error 2: chdir(): No such file or directory (errno 2)
+[Mon, 18 Dec 2017 11:03:01 +0000] Error 2: ssh2_scp_send(/home/tempelgroup/PT/tempelgrup.pt/tempelgroup_db_pt.sql): failed to open stream: No such file or directory
+[Mon, 18 Dec 2017 11:03:01 +0000] Error 2: ssh2_scp_send(): Unable to read source file
+[Mon, 18 Dec 2017 11:03:01 +0000] Error 2: ssh2_scp_send(/home/tempelgroup/PT/tempelgrup.pt/tempelgroup_pt.tar): failed to open stream: No such file or directory
+[Mon, 18 Dec 2017 11:03:01 +0000] Error 2: ssh2_scp_send(): Unable to read source file
+[Mon, 18 Dec 2017 11:03:01 +0000] Error 8: Undefined variable: connection
+[Mon, 18 Dec 2017 11:03:01 +0000] Error 8: Undefined variable: connection
+[Mon, 18 Dec 2017 11:03:01 +0000] Error 2: ssh2_auth_password() expects parameter 1 to be resource, null given
+[Mon, 18 Dec 2017 11:03:01 +0000] Error 8: Undefined variable: connection
+[Mon, 18 Dec 2017 11:03:01 +0000] Error 2: ssh2_exec() expects parameter 1 to be resource, null given
+[Mon, 18 Dec 2017 11:03:01 +0000] Error 8: Undefined variable: connection
+[Mon, 18 Dec 2017 11:03:01 +0000] Error 2: ssh2_exec() expects parameter 1 to be resource, null given
+[Mon, 18 Dec 2017 11:08:02 +0000] Error 2: chdir(): No such file or directory (errno 2)
+[Mon, 18 Dec 2017 11:08:02 +0000] Error 2: ssh2_scp_send(/home/tempelgroup/PT/tempelgrup.pt/tempelgroup_db_pt.sql): failed to open stream: No such file or directory
+[Mon, 18 Dec 2017 11:08:02 +0000] Error 2: ssh2_scp_send(): Unable to read source file
+[Mon, 18 Dec 2017 11:08:02 +0000] Error 2: ssh2_scp_send(/home/tempelgroup/PT/tempelgrup.pt/tempelgroup_pt.tar): failed to open stream: No such file or directory
+[Mon, 18 Dec 2017 11:08:02 +0000] Error 2: ssh2_scp_send(): Unable to read source file
+[Mon, 18 Dec 2017 11:08:02 +0000] Error 8: Undefined variable: connection
+[Mon, 18 Dec 2017 11:08:02 +0000] Error 8: Undefined variable: connection
+[Mon, 18 Dec 2017 11:08:02 +0000] Error 2: ssh2_auth_password() expects parameter 1 to be resource, null given
+[Mon, 18 Dec 2017 11:08:02 +0000] Error 8: Undefined variable: connection
+[Mon, 18 Dec 2017 11:08:02 +0000] Error 2: ssh2_exec() expects parameter 1 to be resource, null given
+[Mon, 18 Dec 2017 11:08:02 +0000] Error 8: Undefined variable: connection
+[Mon, 18 Dec 2017 11:08:02 +0000] Error 2: ssh2_exec() expects parameter 1 to be resource, null given
+[Mon, 18 Dec 2017 11:14:41 +0000] Error 8: Undefined variable: connection
+[Mon, 18 Dec 2017 11:14:41 +0000] Error 8: Undefined variable: connection
+[Mon, 18 Dec 2017 11:14:41 +0000] Error 2: ssh2_auth_password() expects parameter 1 to be resource, null given
+[Mon, 18 Dec 2017 11:14:41 +0000] Error 8: Undefined variable: connection
+[Mon, 18 Dec 2017 11:14:41 +0000] Error 2: ssh2_exec() expects parameter 1 to be resource, null given
+[Mon, 18 Dec 2017 11:14:41 +0000] Error 8: Undefined variable: connection
+[Mon, 18 Dec 2017 11:14:41 +0000] Error 2: ssh2_exec() expects parameter 1 to be resource, null given
+[Tue, 19 Dec 2017 09:35:08 +0000] Error 8: Undefined variable: dbconnect
+[Tue, 19 Dec 2017 09:44:49 +0000] Error 8: Undefined variable: dbconnect
+[Tue, 19 Dec 2017 10:02:01 +0000] Error 8: Undefined variable: dbconnect
+[Tue, 19 Dec 2017 11:12:49 +0000] Error 8: Use of undefined constant PAHTES - assumed 'PAHTES'
+[Tue, 19 Dec 2017 11:58:22 +0000] Error 20: Error en la selección del dominio
+[Tue, 19 Dec 2017 12:01:22 +0000] Error 8: Use of undefined constant PAHTES - assumed 'PAHTES'
+[Tue, 19 Dec 2017 12:17:12 +0000] Error 8: Use of undefined constant PAHTES - assumed 'PAHTES'
+[Tue, 19 Dec 2017 14:20:05 +0000] Error 8: Use of undefined constant PAHTES - assumed 'PAHTES'
+[Tue, 19 Dec 2017 17:31:43 +0000] Error 8: Use of undefined constant PATHPTº - assumed 'PATHPTº'
+[Tue, 19 Dec 2017 17:31:43 +0000] Error 8: Use of undefined constant PAHTPT - assumed 'PAHTPT'
+[Thu, 21 Dec 2017 11:44:31 +0000] Error 8: Use of undefined constant PAHTCOM - assumed 'PAHTCOM'
+[Mon, 19 Feb 2018 10:30:11 +0000] Error 2: ssh2_scp_send(/home/tempelgroup/OM/Backup/tempelgroup_db_om.sql): failed to open stream: No such file or directory
+[Mon, 19 Feb 2018 10:30:11 +0000] Error 2: ssh2_scp_send(): Unable to read source file
+[Mon, 19 Feb 2018 10:30:11 +0000] Error 8: Undefined variable: remotefileTar
+[Mon, 19 Feb 2018 10:30:11 +0000] Error 2: ssh2_scp_send(/home/tempelgroup/OM/Backup/tempelgroup_om.tar): failed to open stream: No such file or directory
+[Mon, 19 Feb 2018 10:30:11 +0000] Error 2: ssh2_scp_send(): Unable to read source file
+[Mon, 19 Feb 2018 10:38:04 +0000] Error 8: Undefined variable: extension
+[Mon, 19 Feb 2018 10:38:04 +0000] Error 8: Undefined variable: extension
+[Mon, 19 Feb 2018 10:38:04 +0000] Error 8: Undefined variable: extension
+[Mon, 19 Feb 2018 10:38:04 +0000] Error 8: Undefined variable: extension
+[Mon, 19 Feb 2018 10:38:04 +0000] Error 2: ssh2_scp_send(/home/tempelgroup//Backup/tempelgroup_db_.sql): failed to open stream: No such file or directory
+[Mon, 19 Feb 2018 10:38:04 +0000] Error 2: ssh2_scp_send(): Unable to read source file
+[Mon, 19 Feb 2018 10:38:04 +0000] Error 8: Undefined variable: remotefileTar
+[Mon, 19 Feb 2018 10:38:04 +0000] Error 2: ssh2_scp_send(/home/tempelgroup//Backup/tempelgroup_.tar): failed to open stream: No such file or directory
+[Mon, 19 Feb 2018 10:38:04 +0000] Error 2: ssh2_scp_send(): Unable to read source file
+[Mon, 19 Feb 2018 11:18:40 +0000] Error 8: Undefined variable: extension
+[Mon, 19 Feb 2018 11:18:40 +0000] Error 8: Undefined variable: extension
+[Mon, 19 Feb 2018 11:27:16 +0000] Error 8: Undefined variable: extension
+[Mon, 19 Feb 2018 11:27:16 +0000] Error 8: Undefined variable: extension
+[Mon, 19 Feb 2018 11:29:26 +0000] Error 8: Undefined variable: extension
+[Mon, 19 Feb 2018 11:29:26 +0000] Error 8: Undefined variable: extension
+[Mon, 19 Feb 2018 11:29:43 +0000] Error 8: Undefined variable: extension
+[Mon, 19 Feb 2018 11:29:43 +0000] Error 8: Undefined variable: extension
+[Mon, 19 Feb 2018 12:29:20 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 12:34:11 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 12:34:39 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 12:37:26 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 12:42:05 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 12:45:39 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 12:50:28 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 12:56:01 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 14:45:06 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 14:54:16 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 14:54:16 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 14:54:16 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 14:54:16 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 14:54:16 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 14:54:16 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 14:54:16 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 14:54:16 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 14:54:16 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 14:54:16 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 14:54:16 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 14:54:16 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 14:54:16 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 14:54:16 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:17:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:17:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:17:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:17:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:17:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:17:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:17:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:17:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:17:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:17:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:17:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:17:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:17:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:17:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:17:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:18:28 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:18:28 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:18:28 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:18:28 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:18:28 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:18:28 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:18:28 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:18:28 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:18:28 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:18:28 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:18:28 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:18:28 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:18:28 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:18:28 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:18:28 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:32:46 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:34:52 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:34:52 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:34:52 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:34:52 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:34:52 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:34:52 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:34:52 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:34:52 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:34:52 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:34:52 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:34:52 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:34:52 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:34:53 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:34:53 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:34:53 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:38:42 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:38:42 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:38:42 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:38:42 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:38:42 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:38:42 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:38:43 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:38:43 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:38:43 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:38:43 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:38:43 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:38:43 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:38:43 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:38:43 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:38:43 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:16 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:17 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:17 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:17 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:17 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:17 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:17 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:17 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:17 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:17 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:17 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:17 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:17 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:17 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:18 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:50 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:51 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:52 +0000] Error 8: Undefined variable: e
+[Mon, 19 Feb 2018 15:39:52 +0000] Error 8: Undefined variable: e
+[Tue, 20 Feb 2018 07:55:29 +0000] Error 8: Undefined variable: e
+[Tue, 20 Feb 2018 08:01:54 +0000] Error 8: Undefined variable: e
+[Tue, 20 Feb 2018 08:04:17 +0000] Error 8: Undefined variable: e
+[Tue, 20 Feb 2018 08:04:17 +0000] Error 8: Undefined variable: Password
+[Tue, 20 Feb 2018 08:04:28 +0000] Error 8: Undefined variable: e
+[Tue, 20 Feb 2018 08:04:49 +0000] Error 8: Undefined variable: e
+[Tue, 20 Feb 2018 08:05:25 +0000] Error 8: Undefined variable: e
+[Tue, 20 Feb 2018 08:06:07 +0000] Error 8: Undefined variable: e
+[Tue, 20 Feb 2018 08:06:27 +0000] Error 8: Undefined variable: e
+[Tue, 20 Feb 2018 08:07:11 +0000] Error 8: Undefined variable: e
+[Tue, 20 Feb 2018 08:07:33 +0000] Error 8: Undefined variable: e
+[Tue, 20 Feb 2018 08:08:46 +0000] Error 8: Undefined variable: e
+[Tue, 20 Feb 2018 08:08:56 +0000] Error 8: Undefined variable: e
+[Tue, 20 Feb 2018 08:09:15 +0000] Error 8: Undefined variable: e
+[Tue, 20 Feb 2018 08:11:56 +0000] Error 8: Undefined variable: e
+[Tue, 20 Feb 2018 08:13:07 +0000] Error 8: Undefined variable: e
